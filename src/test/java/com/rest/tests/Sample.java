@@ -17,6 +17,7 @@ public class Sample {
 		Response response = httpRequest.request(Method.GET, "/Hyderabad");
 		
 		System.out.println(response);
+		System.out.println(response);
 		
 
 	}
