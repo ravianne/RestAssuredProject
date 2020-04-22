@@ -1,0 +1,4 @@
+com\rest\tests\SampleRestGET.class
+com\rest\tests\SampleRestAuthentication.class
+com\restadvanced\tests\SampleAdvancedRest.class
+com\rest\tests\SampleRestPOST.class
